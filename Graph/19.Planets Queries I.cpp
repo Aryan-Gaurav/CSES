@@ -41,7 +41,6 @@ int main()
     IP
     ll n,q;
     cin>>n>>q;
-    ll x;
     f(i,1,n+1)
     	cin>>nxt[i][0];
     f(j,1,31) //idea is very much similar to binary lifting to find LCA in a tree
