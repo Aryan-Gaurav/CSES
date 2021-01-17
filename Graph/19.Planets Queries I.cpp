@@ -46,8 +46,8 @@ int main()
     	cin>>nxt[i][0];
     f(j,1,31) //idea is very much similar to binary lifting to find LCA in a tree
     	f(i,1,n+1)
-        if(ll x=nxt[i][j-1];x!=0)
-          nxt[i][j]=nxt[x][j-1];
+            if(ll x=nxt[i][j-1];x!=0)
+              nxt[i][j]=nxt[x][j-1];
     while(q--)
     {
     	ll x,k;
